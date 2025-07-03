@@ -3,3 +3,4 @@ test
 input
 print("hello world!")
 
+out
